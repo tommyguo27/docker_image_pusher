@@ -1,1 +1,1 @@
-cooderl/wewe-rss-sqlite:latest
+python:alpine3.19
